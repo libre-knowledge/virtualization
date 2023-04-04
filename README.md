@@ -26,6 +26,32 @@
 
 以應用軟體的方式運行於一般用途作業系統上的[虛擬化監管器](#虛擬化監管器-hypervisor-virtual-machine-monitor-vmm)，運行效能較第一類虛擬化監管器差
 
+### 硬體虛擬化<br>Hardware virtualization
+
+模擬一硬體並將其操作轉換為相容的指令在現有的硬體上執行
+
+### 全虛擬化<br>Full virtualization
+
+幾乎完全仿真實際的硬體以能夠使作業系統與軟體在不經過修改適配的前提下直接運行
+
+由於必須要翻譯所有的客端請求為主端指令故效能較差
+
+相關的解決方案：
+
+* QEMU（未使用等[伴虛擬化](#伴虛擬化-para-virtualization)支援的情況下）
+
+### 伴虛擬化<rp>(</rp><rt>Para-virtualization</rt><rp>)
+
+透過與[客端](#客端-guest)作業系統特別提供的界面交互來減少需要大量運算或時間才能處理的[客端](#客端-guest)操作，藉以改善虛擬化效能的技術
+
+需要[主端](#主端-host)[虛擬化監管器](#虛擬化監管器-hypervisor-virtual-machine-monitor-vmm)與[客端](#客端-guest)作業系統支援對應的 API 才能夠使用（如 Linux）
+
+相關方案：
+
+* VMware ESXi
+* Hyper-V
+* QEMU（搭配 KVM）
+
 ## 解決方案
 
 * Docker
