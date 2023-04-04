@@ -33,7 +33,7 @@
 * LXD
 * Oracle VirtualBox
 * QEMU
-* XEN
+* Xen
 
 ## 參考資料
 
