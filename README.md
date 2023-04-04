@@ -39,7 +39,7 @@
 相關的解決方案：
 
 * QEMU（未使用等[伴虛擬化](#伴虛擬化-para-virtualization)支援的情況下）
-* Oracle VirtualBox（64位元與多執行緒客體系統不適用）
+* Oracle VirtualBox（6.1 版之前非 64位元與多執行緒的客體系統虛擬化）
 
 ### 伴虛擬化<rp>(</rp><rt>Para-virtualization</rt><rp>)
 
