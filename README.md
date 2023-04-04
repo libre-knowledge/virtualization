@@ -53,6 +53,32 @@
 * QEMU（搭配 KVM）
 * Xen
 
+### 硬體輔助虛擬化<br>Hardware-assisted virtualization
+
+由中央處理器、晶片組等硬體提供，將虛擬機器的部份工作取代以提高虛擬機器運行效能的虛擬化解決方案
+
+須硬體、韌體與[虛擬化監管器](#虛擬化監管器-hypervisor-virtual-machine-monitor-vmm)支援
+
+相關方案：
+
+* VT-x/AMD-V
+* VT-d
+* VT-c
+* AMD-Si
+* Extended Page Tables(Second Level Address Translation (SLAT))
+
+### 作業系統層級虛擬化<br>Operating system level virtualization
+
+透過抽象化作業系統的功能與命名空間等隔離技術使多個客端作業系統可以與主端作業系統共用作業系統核心並同行運行的技術
+
+相關方案：
+
+* Docker
+* Kubernetes
+* Podman
+* LXC
+* LXD
+
 ## 解決方案
 
 * Docker
