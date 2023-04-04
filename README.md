@@ -51,6 +51,7 @@
 * VMware ESXi
 * Hyper-V
 * QEMU（搭配 KVM）
+* Xen
 
 ## 解決方案
 
