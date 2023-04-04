@@ -4,6 +4,16 @@
 
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "本專案使用 pre-commit 檢查專案中的潛在問題")](https://github.com/pre-commit/pre-commit) [![REUSE 規範遵從狀態標章](https://api.reuse.software/badge/gitlab.com/libre-knowledge/virtualization "本專案遵從 REUSE 規範降低軟體授權合規成本")](https://api.reuse.software/info/github.com/libre-knowledge/virtualization)
 
+## 基本概念
+
+### 主端<br>Host
+
+運行虛擬化解決方案的主機，負責提供運算資源給[客端](#客端-guest)使用，一個虛擬化主端系統可以運行多個[客端](#客端-guest)環境
+
+### 客端<br>Guest
+
+於[主端](#主端-host)上運行的虛擬運算環境，與主端系統有一定程度的隔離，可以存取的資源受限
+
 ## 解決方案
 
 * Docker
