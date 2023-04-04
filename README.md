@@ -59,13 +59,20 @@
 
 須硬體、韌體與[虛擬化監管器](#虛擬化監管器-hypervisor-virtual-machine-monitor-vmm)支援
 
-相關方案：
+相關硬體解決方案：
 
 * VT-x/AMD-V
 * VT-d
 * VT-c
 * AMD-Si
 * Extended Page Tables(Second Level Address Translation (SLAT))
+
+相關虛擬化監管器解決方案：
+
+* KVM
+* QEMU（搭配 KVM）
+* XEN（搭配 KVM）
+* Oracle VirtualBox
 
 ### 作業系統層級虛擬化<br>Operating system level virtualization
 
