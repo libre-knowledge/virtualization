@@ -66,6 +66,15 @@
 * [虛擬化 - 維基百科，自由的百科全書](https://zh.wikipedia.org/zh-tw/%E8%99%9B%E6%93%AC%E5%8C%96)  
   [Virtualization - Wikipedia](https://en.wikipedia.org/wiki/Virtualization)  
   維基百科條目
+* [仿真器 - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/%E4%BB%BF%E7%9C%9F%E5%99%A8)
+* [Hypervisor - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Hypervisor)
+* [Xen - 維基百科，自由的百科全書](https://zh.wikipedia.org/wiki/Xen)
+* [terminology - Simulator or Emulator? What is the difference? - Stack Overflow](https://stackoverflow.com/questions/1584617/simulator-or-emulator-what-is-the-difference/1584701#1584701)
+* [Virtualization - Wikipedia](https://en.wikipedia.org/wiki/Virtualization)
+* [para- - Wiktionary](https://en.wiktionary.org/wiki/para-#Etymology_1)
+* [Paravirtualization - Wikipedia](https://en.wikipedia.org/wiki/Paravirtualization)
+* [QEMU - Wikipedia](https://en.wikipedia.org/wiki/QEMU)
+* [Hardware virtualization - Wikipedia](https://en.wikipedia.org/wiki/Hardware_virtualization)
 
 ---
 
