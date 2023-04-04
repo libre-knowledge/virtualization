@@ -14,6 +14,18 @@
 
 於[主端](#主端-host)上運行的虛擬運算環境，與主端系統有一定程度的隔離，可以存取的資源受限
 
+### 虛擬化監管器<br>Hypervisor / Virtual Machine Monitor(VMM)
+
+於主端運算環境運行，管理並分配硬體資源給客機的系統或應用
+
+### 原生/裸機型虛擬化監管器（第一類虛擬化監管器）<br>Native/Bare-metal hypervisor(TYPE-1 Hypervisor)
+
+直接運行於主機硬體上（而非一般用途作業系統上）的虛擬化監管器，運行效能相對第二類虛擬化監管器較好
+
+### 託管型虛擬化監管器（第二類虛擬化監管器）<br>Hosted hypervisor(TYPE-2 Hypervisor)
+
+以應用軟體的方式運行於一般用途作業系統上的虛擬化監管器，運行效能較第一類虛擬化監管器差
+
 ## 解決方案
 
 * Docker
