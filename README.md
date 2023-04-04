@@ -39,6 +39,7 @@
 相關的解決方案：
 
 * QEMU（未使用等[伴虛擬化](#伴虛擬化-para-virtualization)支援的情況下）
+* Oracle VirtualBox（64位元與多執行緒客體系統不適用）
 
 ### 伴虛擬化<rp>(</rp><rt>Para-virtualization</rt><rp>)
 
@@ -109,6 +110,7 @@
 * [Paravirtualization - Wikipedia](https://en.wikipedia.org/wiki/Paravirtualization)
 * [QEMU - Wikipedia](https://en.wikipedia.org/wiki/QEMU)
 * [Hardware virtualization - Wikipedia](https://en.wikipedia.org/wiki/Hardware_virtualization)
+* [3.3. Hardware vs. Software Virtualization](https://docs.oracle.com/en/virtualization/virtualbox/6.0/admin/hwvirt.html)
 
 ---
 
