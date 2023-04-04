@@ -93,8 +93,14 @@
 * LXC
 * LXD
 * Oracle VirtualBox
+* Proxmox VE
 * QEMU
 * Xen
+
+### 開發方案
+
+* Vagrant 開發環境建置與統合工具  
+  快速建置相同的開發環境，避免團隊成員間環境不一致造成開發阻礙
 
 ## 參考資料
 
