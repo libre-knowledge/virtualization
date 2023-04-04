@@ -16,7 +16,7 @@
 
 ### 虛擬化監管器<br>Hypervisor / Virtual Machine Monitor(VMM)
 
-於主端運算環境運行，管理並分配硬體資源給客機的系統或應用
+於[主端](#主端-host)運算環境運行，管理並分配硬體資源給[客端](#客端-guest)的系統或應用
 
 ### 原生/裸機型虛擬化監管器（第一類虛擬化監管器）<br>Native/Bare-metal hypervisor(TYPE-1 Hypervisor)
 
@@ -24,7 +24,7 @@
 
 ### 託管型虛擬化監管器（第二類虛擬化監管器）<br>Hosted hypervisor(TYPE-2 Hypervisor)
 
-以應用軟體的方式運行於一般用途作業系統上的虛擬化監管器，運行效能較第一類虛擬化監管器差
+以應用軟體的方式運行於一般用途作業系統上的[虛擬化監管器](#虛擬化監管器-hypervisor-virtual-machine-monitor-vmm)，運行效能較第一類虛擬化監管器差
 
 ## 解決方案
 
