@@ -2,7 +2,8 @@
 
 將一個或多個實體資源，如硬體、作業系統、應用程式或資料儲存，透過軟體技術的手段，將其抽象化、隔離化、統合化及自動化，形成一個或多個虛擬的資源，讓使用者可以彈性地使用和管理這些虛擬化的資源，並且可以在不影響其他虛擬化資源的情況下進行管理和配置
 
-[![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "本專案使用 pre-commit 檢查專案中的潛在問題")](https://github.com/pre-commit/pre-commit) [![REUSE 規範遵從狀態標章](https://api.reuse.software/badge/gitlab.com/libre-knowledge/virtualization "本專案遵從 REUSE 規範降低軟體授權合規成本")](https://api.reuse.software/info/github.com/libre-knowledge/virtualization)
+<https://gitlab.com/libre-knowledge/virtualization>  
+[![GitLab CI 持續整合流程狀態標章](https://gitlab.com/libre-knowledge/virtualization/badges/main/pipeline.svg?ignore_skipped=true "點擊查看 GitLab CI 持續整合流程的運行狀態")](https://gitlab.com/libre-knowledge/virtualization/-/commits/main) [![「檢查專案中的潛在問題」GitHub Actions 作業流程狀態標章](https://github.com/libre-knowledge/virtualization/actions/workflows/check-potential-problems.yml/badge.svg "本專案使用 GitHub Actions 自動化檢查專案中的潛在問題")](https://github.com/libre-knowledge/virtualization/actions/workflows/check-potential-problems.yml) [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white "本專案使用 pre-commit 檢查專案中的潛在問題")](https://github.com/pre-commit/pre-commit) [![REUSE 規範遵從狀態標章](https://api.reuse.software/badge/github.com/libre-knowledge/virtualization "本專案遵從 REUSE 規範降低軟體授權合規成本")](https://api.reuse.software/info/github.com/libre-knowledge/virtualization)
 
 ## 基本概念
 

@@ -42,13 +42,13 @@ repos:
   # Check REUSE compliance
   # https://reuse.software/
   - repo: https://github.com/fsfe/reuse-tool
-    rev: v0.12.1
+    rev: v1.0.0
     hooks:
       - id: reuse
 
   # Check YAML files
   # https://github.com/adrienverge/yamllint
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.26.1
+    rev: v1.30.0
     hooks:
       - id: yamllint
