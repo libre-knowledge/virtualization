@@ -90,7 +90,8 @@
 
 ## 解決方案
 
-* Docker
+* [Docker](https://gitlab.com/libre-knowledge/docker)  
+  主流的容器實現之一
 * LXC
 * LXD
 * Oracle VirtualBox
