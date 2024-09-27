@@ -11,3 +11,7 @@
 	path = Docker
 	url = https://gitlab.com/libre-knowledge/docker.git
 	ignore = dirty
+[submodule "VirtualBox"]
+	path = VirtualBox
+	url = https://gitlab.com/libre-knowledge/virtualbox.git
+	ignore = dirty
