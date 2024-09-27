@@ -21,13 +21,17 @@
 
 於[主端](#主端-host)運算環境運行，管理並分配硬體資源給[客端](#客端-guest)的系統或應用
 
-### 原生/裸機型虛擬機監管器（第一類虛擬機監管器）<br>Native/Bare-metal hypervisor(TYPE-1 Hypervisor)
+### 原生/裸機型虛擬機監管器<br>Native/Bare-metal hypervisor
 
 直接運行於主機硬體上（而非一般用途作業系統上）的虛擬機監管器，運行效能相對第二類虛擬機監管器較好
 
-### 託管型虛擬機監管器（第二類虛擬機監管器）<br>Hosted hypervisor(TYPE-2 Hypervisor)
+又稱為第一類虛擬機監管器(TYPE-1 Hypervisor)
+
+### 託管型虛擬機監管器<br>Hosted hypervisor
 
 以應用軟體的方式運行於一般用途作業系統上的[虛擬機監管器](#虛擬機監管器-virtual-machine-hypervisor-virtual-machine-monitor-vmm)，運行效能較第一類虛擬機監管器差
+
+又稱為第二類虛擬機監管器(TYPE-2 Hypervisor)
 
 ### 硬體虛擬化<br>Hardware virtualization
 
@@ -62,15 +66,15 @@
 ### 虛擬機監管器
 
 * ESXi  
-  由 VMware 推出之支援[伴虛擬化](#伴虛擬化-para-virtualization)的[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器第一類虛擬機監管器nativebare-metal-hypervisortype-1-hypervisor)解決方案
+  由 VMware 推出之支援[伴虛擬化](#伴虛擬化-para-virtualization)的[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器nativebare-metal-hypervisor)解決方案
 * Hyper-V  
-  由微軟所推出之支援[伴虛擬化](#伴虛擬化-para-virtualization)的[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器第一類虛擬機監管器nativebare-metal-hypervisortype-1-hypervisor)解決方案
+  由微軟所推出之支援[伴虛擬化](#伴虛擬化-para-virtualization)的[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器nativebare-metal-hypervisor)解決方案
 * QEMU  
-  支援[全虛擬化](#全虛擬化-full-virtualization)與（搭配 KVM）[伴虛擬化](#伴虛擬化-para-virtualization)的[託管型虛擬機監管器](#託管型虛擬機監管器第二類虛擬機監管器hosted-hypervisortype-2-hypervisor)解決方案
+  支援[全虛擬化](#全虛擬化-full-virtualization)與（搭配 KVM）[伴虛擬化](#伴虛擬化-para-virtualization)的[託管型虛擬機監管器](#託管型虛擬機監管器hosted-hypervisor)解決方案
 * VirtualBox  
-  由<ruby>甲骨文<rp>(</rp><rt>Oracle</rt><rp>)</rp></ruby>公司推出之具備使用者友善的圖形化操作界面、支援[伴虛擬化](#伴虛擬化-para-virtualization)的[託管型虛擬機監管器](#託管型虛擬機監管器第二類虛擬機監管器hosted-hypervisortype-2-hypervisor)解決方案
+  由<ruby>甲骨文<rp>(</rp><rt>Oracle</rt><rp>)</rp></ruby>公司推出之具備使用者友善的圖形化操作界面、支援[伴虛擬化](#伴虛擬化-para-virtualization)的[託管型虛擬機監管器](#託管型虛擬機監管器hosted-hypervisor)解決方案
 * Xen  
-  支援[全虛擬化](#全虛擬化-full-virtualization)與（搭配 KVM）[伴虛擬化](#伴虛擬化-para-virtualization)的開放來源碼[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器第一類虛擬機監管器nativebare-metal-hypervisortype-1-hypervisor)解決方案
+  支援[全虛擬化](#全虛擬化-full-virtualization)與（搭配 KVM）[伴虛擬化](#伴虛擬化-para-virtualization)的開放來源碼[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器nativebare-metal-hypervisor)解決方案
 
 ### 作業系統層級虛擬化
 
