@@ -119,16 +119,6 @@
 * [Understanding the Virtualization Spectrum - Xen](https://wiki.xenproject.org/wiki/Understanding_the_Virtualization_Spectrum)  
   說明全虛擬化與伴虛擬化的差異，與 Xen 所支援的實作方式
 
-<!--
-（待補）
-
-## 子主題
-
-以下列舉本主題相關的主題：
-
-（待補）
--->
-
 ---
 
 本主題為[自由知識協作平台](https://gitlab.com/libre-knowledge/libre-knowledge)的一部分，除部份特別標註之經合理使用(fair use)原則使用的內容外允許公眾於授權範圍內自由使用
