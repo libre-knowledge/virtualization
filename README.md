@@ -72,7 +72,7 @@
 * QEMU  
   支援[全虛擬化](#全虛擬化-full-virtualization)與（搭配 KVM）[伴虛擬化](#伴虛擬化-para-virtualization)的[託管型虛擬機監管器](#託管型虛擬機監管器hosted-hypervisor)解決方案
 * VirtualBox  
-  由<ruby>甲骨文<rp>(</rp><rt>Oracle</rt><rp>)</rp></ruby>公司推出之具備使用者友善的圖形化操作界面、支援[伴虛擬化](#伴虛擬化-para-virtualization)的[託管型虛擬機監管器](#託管型虛擬機監管器hosted-hypervisor)解決方案
+  由<ruby>甲骨文<rp>(</rp><rt>Oracle</rt><rp>)</rp></ruby>公司推出之具備使用者友善的圖形化操作界面、支援[伴虛擬化](#伴虛擬化-para-virtualization)的開放來源碼[託管型虛擬機監管器](#託管型虛擬機監管器hosted-hypervisor)解決方案
 * Xen  
   支援[全虛擬化](#全虛擬化-full-virtualization)與（搭配 KVM）[伴虛擬化](#伴虛擬化-para-virtualization)的開放來源碼[原生/裸機型虛擬機監管器](#原生裸機型虛擬機監管器nativebare-metal-hypervisor)解決方案
 
