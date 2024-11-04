@@ -96,7 +96,7 @@
 ### 虛擬化資源編排工具
 
 * Docker Compose
-* Vagrant 開發環境建置與統合工具  
+* [Vagrant 開發環境建置與統合工具](https://gitlab.com/libre-knowledge/vagrant)  
   快速建置相同的開發環境，避免團隊成員間環境不一致造成開發阻礙
 
 ## 參考資料
